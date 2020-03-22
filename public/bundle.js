@@ -24400,10 +24400,10 @@
     			add_location(a17, file$3, 1109, 256, 42986);
     			attr_dev(p4, "class", "center svelte-1vzb36m");
     			add_location(p4, file$3, 1108, 0, 42711);
-    			attr_dev(a18, "href", "https://twitter.com/gabeeegoooh");
+    			attr_dev(a18, "href", "https://twitter.com/abhik5981");
     			attr_dev(a18, "class", "svelte-1vzb36m");
     			add_location(a18, file$3, 1113, 22, 43166);
-    			attr_dev(a19, "href", "mailto:izmegabe@gmail.com");
+    			attr_dev(a19, "href", "mailto:abhik1998chakraborty@gmail.com");
     			attr_dev(a19, "class", "svelte-1vzb36m");
     			add_location(a19, file$3, 1113, 85, 43229);
     			attr_dev(p5, "class", "center svelte-1vzb36m");
@@ -24412,7 +24412,7 @@
     			attr_dev(script, "src", "https://platform.twitter.com/widgets.js");
     			attr_dev(script, "charset", "utf-8");
     			add_location(script, file$3, 1117, 116, 43416);
-    			attr_dev(a20, "href", "https://twitter.com/gabeeegoooh?ref_src=twsrc%5Etfw");
+    			attr_dev(a20, "href", "https://twitter.com/abhik5981?ref_src=twsrc%5Etfw");
     			attr_dev(a20, "class", "twitter-follow-button svelte-1vzb36m");
     			attr_dev(a20, "data-show-count", "false");
     			add_location(a20, file$3, 1117, 0, 43300);
